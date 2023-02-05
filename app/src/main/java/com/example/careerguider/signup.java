@@ -18,7 +18,7 @@ public class signup extends AppCompatActivity {
 
     EditText signupName, signupUsername, signupEmail, signupPassword;
     TextView loginRedirectText;
-
+    Button signupButton;
     FirebaseDatabase database;
     DatabaseReference reference;
 
